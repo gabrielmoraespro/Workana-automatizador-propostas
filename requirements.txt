@@ -1,0 +1,7 @@
+pip install streamlit
+pip install requests
+
+# python -m venv venv
+# venv\Scripts\activate
+
+#criar máquina virtual / ativar / instalar requirimentos | executar.bat --> executar

@@ -1,0 +1,1 @@
+Trocar caminho da pasta diretório --> no bat, colocar seu respectivo caminho. Ou executar streamlit localmente. Utilizei o localhost.run para rodar via web, crie sua SSH key e salve no admin do site. 
